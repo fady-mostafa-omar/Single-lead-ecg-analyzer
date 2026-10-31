@@ -1,7 +1,8 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+vendor/
 data/
-*.ckpt
-*.pt
+.gradio/
+flagged/
 .env
